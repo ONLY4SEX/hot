@@ -1,0 +1,13 @@
+/* calistoga-regular - latin */
+@font-face {
+  font-family: 'Calistoga';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://cdn.lnk.bio/202006/fonts/calistoga/calistoga-v1-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Calistoga Regular'), local('Calistoga-Regular'),
+       url('https://cdn.lnk.bio/202006/fonts/calistoga/calistoga-v1-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.lnk.bio/202006/fonts/calistoga/calistoga-v1-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('https://cdn.lnk.bio/202006/fonts/calistoga/calistoga-v1-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('https://cdn.lnk.bio/202006/fonts/calistoga/calistoga-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://cdn.lnk.bio/202006/fonts/calistoga/calistoga-v1-latin-regular.svg#Calistoga') format('svg'); /* Legacy iOS */
+}
